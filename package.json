@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/book-shop/",
+    "build": "vite build --base=/js_120_Julia-Shefner/",
     "preview": "vite preview"
   },
   "devDependencies": {
